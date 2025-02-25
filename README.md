@@ -24,14 +24,16 @@ Sistem Validasi Input
 ## Instalasi
 1. Pastikan Anda memiliki Python terinstal di sistem Anda.
 2. Clone repositori ini:
-   sh
+   ```sh
    git clone https://github.com/username/repository.git](https://github.com/AnasAgazy1603/Capstone-Rental-Mobil) 
    cd repository
+   ```
 
 ## Cara Penggunaan
 1. Jalankan program dengan perintah:
-   sh
-   python main_menu.py 
+   ```sh
+   python main_menu.py
+   ```
 2. Ikuti instruksi di layar untuk mengakses berbagai fitur sistem.
 
 ## Kontribusi
